@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats:
 <hr>
 
-![https://github.com/Shaheer-cloud-07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaheer-cloud-07&show_icons=true&theme=dark)
+![https://github.com/Shaheer-cloud-07 GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaheerIslam1211&show_icons=true&theme=dark)
 
-![Top Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Shaheer-cloud-07&theme=dark&hide_border=true)
+![Top Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ShaheerIslam1211&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-cloud-07&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerIslam1211&layout=compact&theme=dark)
 
 
 ### ✍️ Random Dev Quote
