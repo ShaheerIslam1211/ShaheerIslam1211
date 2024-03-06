@@ -50,3 +50,6 @@ Here are some ideas to get you started:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<hr>
+<p dir="auto"><a href="https://visitcount.itsvg.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d552b92f599d913329509a41e1f0b289f752ee443c7c6628e1229e3c5d14f7cc/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d44756161417a6861722669636f6e3d3026636f6c6f723d30" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=ShaheerIslam1211&amp;icon=0&amp;color=0" style="max-width: 100%;"></a></p>
+
