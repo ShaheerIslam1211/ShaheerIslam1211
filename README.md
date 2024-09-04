@@ -27,7 +27,18 @@ Here are some ideas to get you started:
 ### 🌐 Socials:
 <hr>
 
-<a href="https://discord.gg/Shaheer_727" rel="nofollow"><img src="https://camo.githubusercontent.com/80deb183f87d91c5b628533ac6a0c6ac0752c553a69df73faa336f1f9b7c9de8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333732383944412e7376673f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="Discord" data-canonical-src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/shaheer-islam-34178b237/" rel="nofollow"><img src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://twitter.com/M_Shaheer_Islam" rel="nofollow"><img src="https://camo.githubusercontent.com/2fc85cf3646091660daac9224ef6fcc91f25fbbf6cc729740256a6063183f5b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f6c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://discord.gg/Shaheer_727" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+<a href="https://www.linkedin.com/in/shaheer-islam-34178b237/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://twitter.com/M_Shaheer_Islam" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
+</a>
+
 
 ### 💻 Tech Stack:
 <hr>
