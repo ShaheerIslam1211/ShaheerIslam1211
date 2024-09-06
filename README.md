@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-![ShaheerIslam1211 GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaheerIslam1211&show_icons=true&theme=dark&count_private=true)
+![ShaheerIslam1211 GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaheerIslam1211&show_icons=true&theme=one_dark_pro&count_private=true)
 
 ![Top Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ShaheerIslam1211&theme=dark&hide_border=true)
 
