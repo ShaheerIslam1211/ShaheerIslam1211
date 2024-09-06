@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ![Top Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ShaheerIslam1211&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerIslam1211&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerIslam1211&layout=compact&theme=one_dark_pro&hide_border=true)
 
 ### ✍️ Random Dev Quote
 
