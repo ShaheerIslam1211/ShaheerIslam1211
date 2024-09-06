@@ -58,6 +58,9 @@ Here are some ideas to get you started:
 
 [![Shaheer's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShaheerIslam1211&theme=react-dark)](https://github.com/ShaheerIslam1211)
 
+![Shaheer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaheerIslam1211&theme=dark)
+
+
 
 ### ✍️ Random Dev Quote
 
