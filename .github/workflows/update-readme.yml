@@ -1,0 +1,22 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 */1 * * *' # This means the action will run every 6 hours
+  workflow_dispatch: # Allows manual trigger in the GitHub Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate README content
+        run: |
+          curl -o README.md https://raw.githubusercontent.com/ShaheerIslam1211/ShaheerIslam1211/main/README.md
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "Automated update of README.md"
+          git push
