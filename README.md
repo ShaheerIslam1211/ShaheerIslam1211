@@ -49,11 +49,15 @@ Here are some ideas to get you started:
 
 <hr>
 
-![ShaheerIslam1211 GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaheerIslam1211&show_icons=true&theme=one_dark_pro&count_private=true)
+![ShaheerIslam1211 GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaheerIslam1211&show_icons=true&theme=one_dark_pro&count_private=true&include_all_commits=true&cache_seconds=1800)
+
 
 ![Top Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ShaheerIslam1211&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerIslam1211&layout=compact&theme=one_dark_pro&hide_border=true)
+
+[![Shaheer's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShaheerIslam1211&theme=react-dark)](https://github.com/ShaheerIslam1211)
+
 
 ### ✍️ Random Dev Quote
 
