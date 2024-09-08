@@ -56,8 +56,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerIslam1211&layout=compact&theme=one_dark_pro&hide_border=true)
 
+<!--
 [![Shaheer's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShaheerIslam1211&theme=react-dark)](https://github.com/ShaheerIslam1211)
-
+-->
 
 
 
