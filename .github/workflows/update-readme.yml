@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # This means the action will run every 6 hours
+    - cron: '0 */1 * * *' # This means the action will run every hour
   workflow_dispatch: # Allows manual trigger in the GitHub Actions tab
 
 jobs:
@@ -19,4 +19,9 @@ jobs:
           git config --global user.email "action@github.com"
           git add README.md
           git commit -m "Automated update of README.md"
-          git push
+          
+      - name: Push changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git push https://${GH_TOKEN}@github.com/ShaheerIslam1211/ShaheerIslam1211.git
