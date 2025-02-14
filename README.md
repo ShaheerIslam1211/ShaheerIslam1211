@@ -14,15 +14,24 @@ Here are some ideas to get you started:
 -->
 
 
-### 💫 About Me:
+### 🚀 About Me:
 
 <hr>
 
-🔭 I’m currently working in Developers Console <br>
-🤝 I’m looking for help with any Web Development stuff<br>
-🌱 I’m currently learning React.JS <br>
-💬 Ask me about anything related to Web Development in Ruby on Rails <br>
-⚡ Fun fact: I use tabs over spaces <br>
+I'm a **Full-Stack Developer** with expertise in **Ruby on Rails, Python, React, Node.js, Next.js**, and more. I build **scalable, high-performance applications** with clean, maintainable code. Whether it's front-end magic or back-end architecture, I bring ideas to life with **precision and innovation**.  
+
+## 💼 What I Do  
+
+- 🔹 **Front-End & Back-End Development** – Creating seamless and efficient applications  
+- 🔹 **Ruby on Rails & Python** – Crafting robust, high-performance backends  
+- 🔹 **React, Next.js, Node.js** – Developing modern and dynamic UIs  
+- 🔹 **Scalable & Secure Apps** – Building solutions that grow with your business  
+
+## 🤝 Let’s Work Together  
+
+💡 **Have an idea? Need a top-tier developer? I’m here to help!**  
+📩 **Let's build something amazing together!**  
+
 
 ### 🌐 Socials:
 
